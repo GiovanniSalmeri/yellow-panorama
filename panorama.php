@@ -1,11 +1,10 @@
 <?php
-// Panorama extension
-// Copyright (c) 2020 Giovanni Salmeri
+// Panorama extension, https://github.com/GiovanniSalmeri/yellow-panorama
+// Copyright (c) 2021 Giovanni Salmeri
 // This file may be used and distributed under the terms of the public license.
 
 class YellowPanorama {
-    const VERSION = "0.8.10";
-    const TYPE = "feature";
+    const VERSION = "0.8.16";
     public $yellow;         //access to API
     
     // Handle initialisation
@@ -17,7 +16,7 @@ class YellowPanorama {
     public function onParseContentShortcut($page, $name, $text, $type) {
         $output = null;
         if ($name=="panorama" && ($type=="block" || $type=="inline")) {
-            list($name, $alt, $start) = $this->yellow->toolbox->getTextArgs($text);
+            list($name, $alt, $start) = $this->yellow->toolbox->getTextArguments($text);
             if (!is_numeric($start)) $start = 50;
             $output .= "<div class=\"panorama\">\n";
             $output .= "<div class=\"panorama-sliding\">\n";

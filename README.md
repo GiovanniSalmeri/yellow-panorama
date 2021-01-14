@@ -1,16 +1,8 @@
-Panorama 0.8.10
-=============
+# Panorama 0.8.16
+
 Panoramic scrollable images.
 
 <p align="center"><img src="panorama-screenshot.png?raw=true" width="779" height="666" alt="Screenshot"></p>
-
-## How to install extension
-
-1. [Download and install Datenstrom Yellow](https://github.com/datenstrom/yellow/).
-2. [Download extension](../../archive/master.zip). If you are using Safari, right click and select 'Download file as'.
-3. Copy `master.zip` into your `system/extensions` folder.
-
-To uninstall delete the [extension files](extension.ini).
 
 ## How to add a panoramic image
 
@@ -24,7 +16,7 @@ The following arguments are available, all but the first argument are optional:
 
 The `media/images` folder is the place to store your images. Use this extension for embedding horizontally scrollable images.  The extension is useful for images which are wider than the maximum width of the page (typically 1000px).
 
-## Examples
+## Example
 
 Adding panoramic images:
 
@@ -32,6 +24,10 @@ Adding panoramic images:
     [panorama sunset.jpg "Sunset"]  
     [panorama sunset.jpg "Sunset" 0]  
 
+## Installation
+
+[Download extension](https://github.com/GiovanniSalmeri/yellow-panorama/archive/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+
 ## Developer
 
-Giovanni Salmeri. [Get support](https://github.com/GiovanniSalmeri/yellow-panorama/issues).
+Giovanni Salmeri. [Get help](https://github.com/GiovanniSalmeri/yellow-panorama/issues).
