@@ -1,3 +1,5 @@
+// Panorama extension, https://github.com/GiovanniSalmeri/yellow-panorama
+
 "use strict";
 document.addEventListener("DOMContentLoaded", function() {
     /**
