@@ -4,7 +4,7 @@ Panoramic scrollable images.
 
 <p align="center"><img src="panorama-screenshot.png?raw=true" width="779" height="666" alt="Screenshot"></p>
 
-## How to add a panoramic image
+## How to show a panoramic image
 
 Create a `[panorama]` shortcut. 
 
@@ -18,7 +18,7 @@ The `media/images` folder is the place to store your images. Use this extension 
 
 ## Example
 
-Adding panoramic images:
+Showing panoramic images:
 
     [panorama sunset.jpg]  
     [panorama sunset.jpg "Sunset"]  
