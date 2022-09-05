@@ -2,7 +2,7 @@
 
 Panoramic scrollable images.
 
-<p align="center"><img src="panorama-screenshot.png?raw=true" width="779" height="666" alt="Screenshot"></p>
+<p align="center"><img src="panorama-screenshot.png?raw=true" alt="Screenshot"></p>
 
 ## How to show a panoramic image
 
