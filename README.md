@@ -30,4 +30,4 @@ Showing panoramic images:
 
 ## Developer
 
-Giovanni Salmeri. [Get help](https://github.com/GiovanniSalmeri/yellow-panorama/issues).
+Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/)
