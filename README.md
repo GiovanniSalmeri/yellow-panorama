@@ -26,7 +26,7 @@ Showing panoramic images:
 
 ## Installation
 
-[Download extension](https://github.com/GiovanniSalmeri/yellow-panorama/archive/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/GiovanniSalmeri/yellow-panorama/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 ## Developer
 
