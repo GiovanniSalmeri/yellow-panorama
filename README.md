@@ -16,7 +16,7 @@ The following arguments are available, all but the first argument are optional:
 
 `Name` = file name    
 `Alt` = alternative text for image   
-`Position` (default:  `50`) = initial position of image, from `0` to `100`
+`Position` = initial position of image, from `0` to `100`
 
 The `media/images` folder is the place to store your images. Use this extension for embedding horizontally scrollable images.  The extension is useful for images which are wider than the maximum width of the page (typically 1000px).
 
