@@ -1,4 +1,4 @@
-# Panorama 0.8.16
+# Panorama 0.9.1
 
 Panoramic scrollable images.
 
