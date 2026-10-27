@@ -1,8 +1,8 @@
-# Panorama 0.9.1
+# Panorama 1.0.0
 
-Panoramic scrollable images.
+Panoramic scrollable images. Developed by Giovanni Salmeri.
 
-<p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
+<p align="center"><img src="screenshot.png" alt="Screenshot"></p>
 
 ## How to install an extension
 
@@ -28,6 +28,4 @@ Showing panoramic images:
     [panorama sunset.jpg "Sunset"]  
     [panorama sunset.jpg "Sunset" 0]  
 
-## Developer
-
-Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/).
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).
